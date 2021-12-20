@@ -4,19 +4,13 @@
 			"path": "LabGuide"
 		},
 		{
-			"path": "A1-Lincoln"
+			"path": "HMSConverter"
 		},
 		{
-			"path": "A2-AverageOfThree"
+			"path": "SecondsConverter"
 		},
 		{
-			"path": "A3-HMSConverter"
-		},
-		{
-			"path": "A4-SecondsConverter"
-		},
-		{
-			"path": "A5-FractionConverter"
+			"path": "CodingJournal"
 		}
 	],
 	"settings": {
