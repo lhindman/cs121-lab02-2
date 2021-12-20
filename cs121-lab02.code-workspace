@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "LabGuide"
+		},
+		{
+			"path": "A1-Lincoln"
+		},
+		{
+			"path": "A2-AverageOfThree"
+		},
+		{
+			"path": "A3-HMSConverter"
+		},
+		{
+			"path": "A4-SecondsConverter"
+		},
+		{
+			"path": "A5-FractionConverter"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/.placeholder": true
+		}
+	}
+}
