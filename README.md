@@ -2,7 +2,7 @@
 
 ## Lab Activity 2 - HMSConverter (Required)
 ### Problem Description
-Write an application that prompts the user for integer values that represent a time duration in hours, minutes, and seconds, and then calculates and prints the equivalent total number of seconds. For example, 1 hours, 28 minutes, 42 seconds is equivalent to 5322 seconds.  The program user use a Scanner to read input from the user. It is helpful to work out the arithmetic equiation on paper before attempting to write the code. Your program should match the expected output below.
+Write an application that prompts the user for integer values that represent a time duration in hours, minutes, and seconds, and then calculates and prints the equivalent total number of seconds. For example, 1 hours, 28 minutes, 42 seconds is equivalent to 5322 seconds.  The program should use a Scanner to read input from the user. It is helpful to work out the arithmetic equiation on paper before attempting to write the code. Your program should match the expected output below.
 
 #### Expected Program Output (with sample user input)
 ```
@@ -22,7 +22,7 @@ Total seconds: 5322
 
 ## Lab Activity 3 - SecondsConverter (Required)
 ### Problem Description
-Create a version of the previous activity that reverses the computation.  That is, read a value from the user representing a number of seconds, and then print the equivalent amount of time as a combination of hours, minutes, and seconds. For example, 9999 seconds is equivalent to 2 hours, 46 minutes, and 39 seconds. The program user use a Scanner to read input from the user. It is helpful to work out the arithmetic equiation on paper before attempting to write the code. Your program should match the expected output below.
+Create a version of the previous activity that reverses the computation.  That is, read a value from the user representing a number of seconds, and then print the equivalent amount of time as a combination of hours, minutes, and seconds. For example, 9999 seconds is equivalent to 2 hours, 46 minutes, and 39 seconds. The program should use a Scanner to read input from the user. It is helpful to work out the arithmetic equiation on paper before attempting to write the code. Your program should match the expected output below.
 
 #### Expected Program Output (with sample user input)
 ```
