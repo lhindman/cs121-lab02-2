@@ -1,4 +1,6 @@
 # Module 2 Lab Guide (part 2)
+## Getting Started
+[Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=535641ef-10e0-45ee-ae71-ae24018a8727)
 
 ## Lab Activity 2 - HMSConverter
 ### Problem Description
