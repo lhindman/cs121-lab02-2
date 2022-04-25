@@ -2,6 +2,8 @@
 # Module 2 Lab Guide (part 2)
 [Lab Introduction Video](https://boisestate.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=535641ef-10e0-45ee-ae71-ae24018a8727&start=0)
 
+**NOTE: Please remember to [open the workspace](images/open-lab-workspace.png) before beginning on the lab activities** 
+
 ## Lab Activity 2 - HMSConverter
 ### Problem Description
 Write an application that prompts the user for integer values that represent a time duration in hours, minutes, and seconds, and then calculates and prints the equivalent total number of seconds. For example, 1 hours, 28 minutes, 42 seconds is equivalent to 5322 seconds.  The program should use a Scanner to read input from the user. It is helpful to work out the arithmetic equiation on paper before attempting to write the code. Your program should match the expected output below.
